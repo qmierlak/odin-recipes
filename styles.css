@@ -6,8 +6,12 @@
     text-align: center;
 }
 
+.recipe-link:hover {
+    color: rgb(28, 51, 46);
+}
+
 .container {
-    outline: 2px solid darkslategray;
+    border-bottom: 2px solid rgb(1, 43, 23);
     padding: 24px;
     text-align: center;
 }
